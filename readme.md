@@ -12,5 +12,5 @@ Fill the following environment variables in a `.env` file in the root of the pro
 ### Running
 
 ```
-python3 lrfc_bot.py
+python3 lyra_bot.py
 ```

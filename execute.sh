@@ -1,1 +1,1 @@
-source venv/bin/activate; nohup python3 lyra-bot.py &
+source venv/bin/activate; nohup python3 lyra_bot.py &
